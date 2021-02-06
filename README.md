@@ -1,0 +1,4 @@
+- Brian Hotopp
+- Graduating 2021
+- User-contributed fast-food database (Rocket.rs, Postgres, Vue.js)
+- ![8991235](8991235.png)
